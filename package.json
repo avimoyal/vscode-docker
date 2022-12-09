@@ -2760,7 +2760,7 @@
         "@typescript-eslint/parser": "^4.21.0",
         "copy-webpack-plugin": "^8.1.1",
         "eslint": "^7.24.0",
-        "mocha": "^8.2.1",
+        "mocha": "^10.1.0",
         "ts-loader": "^8.0.14",
         "typescript": "^4.2.4",
         "umd-compat-loader": "^2.1.2",
